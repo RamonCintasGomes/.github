@@ -5,14 +5,14 @@
   
 </div>
 
-<h1 align="center">Here are all the open source projects developed throughout my developer career that are not among the private source projects in the RamonCintas repository</h1>
+<h1 align="center">Here are all the open source projects that are not among the private source projects in the RamonCintas repository</h1>
 
 ---
 
 <table>
 	<thead>
 		<tr>
-			<th colspan="2" width="2000"><h2>📖 Projects Open Source</h2></th>
+			<th colspan="2" width="2000"><h2>📖 Open Source Projects</h2></th>
 		</tr>
 	</thead>
 	<tbody>
@@ -48,10 +48,3 @@
 </table>
 
 ---
-
-<br>
-<div align="center">
-  <h3 align="centre"><b>Visits received on this organization</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{RamonCintasGomes}/count.svg" /></p> 
-</div>
-<br>
