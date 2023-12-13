@@ -5,7 +5,7 @@
   
 </div>
 
-<h1 align="center">Here are all the open projects developed throughout my development career that are not among the private projects in the RamonCintas repository</h1>
+<h1 align="center">Here are all the open source projects developed throughout my developer career that are not among the private source projects in the RamonCintas repository</h1>
 
 ---
 
