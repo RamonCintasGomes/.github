@@ -19,7 +19,7 @@
 		<tr>
 			<td align="center" valign="center" width="200" height="200"><br />
 				<a href="https://github.com/RamonCintas">
-			      		<img src="https://github.com/RamonCintasGomes/.github/blob/main/profile/assets/fatec.jpg" />
+			      		<img src="https://github.com/RamonCintasGomes/.github/blob/main/profile/assets/fatec-logo.png" />
 			      	</a>
 		      	</td>
 			<td valign="top">
