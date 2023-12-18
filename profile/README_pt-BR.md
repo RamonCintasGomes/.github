@@ -1,7 +1,7 @@
 <div align="right">
 	
-  [![English](https://flagsapi.com/US/flat/32.png)](profile/README.md)
-  [![Portuguese](https://flagsapi.com/BR/flat/32.png)](profile/README_pt-BR.md)
+  [![English](https://flagsapi.com/US/flat/32.png)](https://github.com/RamonCintasGomes/.github/blob/main/profile/README.md)
+  [![Portuguese](https://flagsapi.com/BR/flat/32.png)](https://github.com/RamonCintasGomes/.github/blob/main/profile/README_pt-BR.md)
   
 </div>
 
