@@ -64,7 +64,7 @@
 				<h3>Beecrowd / URI Online Judge</h3>
 				<p>Projetos desenvolvidos na plataforma de desafios de código Beecrowd.</p>
 				<a href="https://github.com/RamonCintas">
- 			 		<img src="https://img.shields.io/badge/ver%20projeto-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projetos">
+ 			 		<img src="https://img.shields.io/badge/ver%20projetos-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projetos">
 				</a>
 				<div>
 				</div>
