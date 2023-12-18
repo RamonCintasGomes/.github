@@ -19,7 +19,7 @@
 		<tr>
 			<td align="center" valign="top" width="80"><br />
 				<a href="https://github.com/RamonCintas">
-			      		<img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/findpets-logo.png" />
+			      		<img src="https://github.com/RamonCintas/RamonCintasGomes/blob/main/assets/fatec.jpg" />
 			      	</a>
 		      	</td>
 			<td valign="top">
@@ -33,7 +33,21 @@
   		<tr>
 			<td align="center" valign="top" width="80"><br />
 				<a href="https://github.com/RamonCintas">
-			      		<img src="https://github.com/RamonCintas/RamonCintas/blob/main/assets/crud-logo.png" />
+			      		<img src="https://github.com/RamonCintas/RamonCintasGomes/blob/main/assets/dio.png" />
+			      	</a>
+		      	</td>
+			<td valign="top">
+				<h3>API CRUD Spring Boot + Angualr</h3>
+				<p>projeto interdisciplinar.</p>
+				<a href="https://github.com/RamonCintas">
+ 			 		<img src="https://img.shields.io/badge/ver%20projeto-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto">
+				</a>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="80"><br />
+				<a href="https://github.com/RamonCintas">
+			      		<img src="https://github.com/RamonCintas/RamonCintasGomes/blob/main/assets/urionline.png" />
 			      	</a>
 		      	</td>
 			<td valign="top">
