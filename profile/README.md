@@ -19,7 +19,7 @@
 		<tr>
 			<td align="center" valign="top" width="80"><br />
 				<a href="https://github.com/RamonCintas">
-			      		<img src="https://github.com/RamonCintas/RamonCintasGomes/blob/main/assets/fatec.jpg" />
+			      		<img src="https://github.com/RamonCintasGomes/.github/blob/main/profile/assets/fatec.jpg" />
 			      	</a>
 		      	</td>
 			<td valign="top">
@@ -33,7 +33,7 @@
   		<tr>
 			<td align="center" valign="top" width="80"><br />
 				<a href="https://github.com/RamonCintas">
-			      		<img src="https://github.com/RamonCintas/RamonCintasGomes/blob/main/assets/dio.png" />
+			      		<img src="https://github.com/RamonCintasGomes/.github/blob/main/profile/assets/dio.png" />
 			      	</a>
 		      	</td>
 			<td valign="top">
@@ -47,7 +47,7 @@
 		<tr>
 			<td align="center" valign="top" width="80"><br />
 				<a href="https://github.com/RamonCintas">
-			      		<img src="https://github.com/RamonCintas/RamonCintasGomes/blob/main/assets/urionline.png" />
+			      		<img src="https://github.com/RamonCintasGomes/.github/blob/main/profile/assets/urionline.png" />
 			      	</a>
 		      	</td>
 			<td valign="top">
