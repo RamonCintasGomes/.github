@@ -73,6 +73,20 @@
 				</a>
 			</td>
 		</tr>
+		<tr>
+			<td align="center" valign="center" width="200" height="200"><br />
+				<a href="https://github.com/RamonCintas" target="_blank">
+			      		<img src="https://github.com/RamonCintasGomes/.github/blob/main/profile/assets/portfolio.jpg"/>
+			      	</a>
+		      	</td>
+			<td valign="top">
+				<h3>Private source Projects: Ramon Cintas Digital Portfolio</h3>
+				<p>⚡ Welcome to my digital portfolio</p>
+				<a href="https://github.com/RamonCintas" target="_blank">
+ 			 		<img src="https://img.shields.io/badge/Go%20to%20digital%20portfolio-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Go to the digital portfolio">
+				</a>
+			</td>
+		</tr>
 	</tbody>
 </table>
 
