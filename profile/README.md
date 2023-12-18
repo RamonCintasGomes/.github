@@ -23,15 +23,15 @@
 			      	</a>
 		      	</td>
 			<td valign="top">
-				<h3>Faculdade de Tecnologia do Estado de São Paulo</h3>
+				<h3>Fatec (Faculdade de Tecnologia do Estado de São Paulo)</h3>
 				<p>Projeto para aprimorar os conhecimentos de programação desenvolvendo um site responsivo e hospedado com front-end e back-end para doação e adoção de cachorros e gatos.</p>
 				<a href="https://github.com/RamonCintas">
  			 		<img src="https://img.shields.io/badge/ver%20projeto-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto">
 				</a>
    				<div>
 				</div>
-				<a href="https://find-pets.infinityfreeapp.com/" target="_blank">
- 			 		<img src="https://img.shields.io/badge/Ir%20para%20o%20site%20Find%20Pets-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ir para o site find pets">
+				<a href="https://www.vestibularfatec.com.br/home/" target="_blank">
+ 			 		<img src="https://img.shields.io/badge/Ir%20para%20o%20site%20vestibular%20fatec-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ir para o site vestibular fatec">
 				</a>
 			</td>
 		</tr>
@@ -42,10 +42,15 @@
 			      	</a>
 		      	</td>
 			<td valign="top">
-				<h3>Digital Innovation One</h3>
+				<h3>DIO (Digital Innovation One)</h3>
 				<p>Projeto para aprimorar os conhecimentos de programação construindo uma API (Interface de Programação de Aplicação) com front-end e back-end para doações online.</p>
 				<a href="https://github.com/RamonCintas">
- 			 		<img src="https://img.shields.io/badge/ver%20projeto-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto">
+ 			 		<img src="https://img.shields.io/badge/ver%20projetos-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projetos">
+				</a>
+				<div>
+				</div>
+				<a href="https://www.dio.me/" target="_blank">
+ 			 		<img src="https://img.shields.io/badge/Ir%20para%20o%20site%20da%20Digital%20Innovation%20One-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ir para o site Digital Innovation One">
 				</a>
 			</td>
 		</tr>
@@ -56,10 +61,15 @@
 			      	</a>
 		      	</td>
 			<td valign="top">
-				<h3>beecrowd</h3>
+				<h3>Beecrowd / URI Online Judge</h3>
 				<p>Projetos para aprimorar os conhecimentos de programação com o foco em grandes volumes de dados.</p>
 				<a href="https://github.com/RamonCintas">
  			 		<img src="https://img.shields.io/badge/ver%20projeto-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto">
+				</a>
+				<div>
+				</div>
+				<a href="https://www.beecrowd.com.br/judge/pt/login" target="_blank">
+ 			 		<img src="https://img.shields.io/badge/Ir%20para%20o%20site%20Beecrowd-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ir para o site Beecrowd">
 				</a>
 			</td>
 		</tr>
