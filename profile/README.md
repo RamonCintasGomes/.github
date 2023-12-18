@@ -12,58 +12,6 @@
 <table>
 	<thead>
 		<tr>
-			<th colspan="2" width="2000"><h2></h2></th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td align="center" valign="top" width="80"><br />
-				<a href="https://github.com/RamonCintas">
-			      		<img src="https://github.com/RamonCintasGomes/.github/blob/main/profile/assets/fatec.jpg" />
-			      	</a>
-		      	</td>
-			<td valign="top">
-				<h3>Find Pets Mobile e Web</h3>
-				<p>projeto integrador.</p>
-				<a href="https://github.com/RamonCintas">
- 			 		<img src="https://img.shields.io/badge/ver%20projeto-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto">
-				</a>
-			</td>
-		</tr>
-  		<tr>
-			<td align="center" valign="top" width="80"><br />
-				<a href="https://github.com/RamonCintas">
-			      		<img src="https://github.com/RamonCintasGomes/.github/blob/main/profile/assets/dio.png" />
-			      	</a>
-		      	</td>
-			<td valign="top">
-				<h3>API CRUD Spring Boot + Angualr</h3>
-				<p>projeto interdisciplinar.</p>
-				<a href="https://github.com/RamonCintas">
- 			 		<img src="https://img.shields.io/badge/ver%20projeto-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto">
-				</a>
-			</td>
-		</tr>
-		<tr>
-			<td align="center" valign="top" width="80"><br />
-				<a href="https://github.com/RamonCintas">
-			      		<img src="https://github.com/RamonCintasGomes/.github/blob/main/profile/assets/urionline.png" />
-			      	</a>
-		      	</td>
-			<td valign="top">
-				<h3>API CRUD Spring Boot + Angualr</h3>
-				<p>projeto interdisciplinar.</p>
-				<a href="https://github.com/RamonCintas">
- 			 		<img src="https://img.shields.io/badge/ver%20projeto-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto">
-				</a>
-			</td>
-		</tr>
-	</tbody>
-</table>
-
-<table>
-	<thead>
-		<tr>
 			<th colspan="2" width="2000"><h2>📖 Open Source Projects</h2></th>
 		</tr>
 	</thead>
