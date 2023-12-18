@@ -5,7 +5,7 @@
   
 </div>
 
-<h1 align="center">Here are all the open source projects that are not among the private source projects in the RamonCintas repository</h1>
+<h1 align="center">⚡ Here are all the open source projects that are not among the private source projects in the RamonCintas repository</h1>
 
 ---
 
@@ -24,7 +24,7 @@
 		      	</td>
 			<td valign="top">
 				<h3>Fatec (Faculdade de Tecnologia do Estado de São Paulo)</h3>
-				<p>Projeto para aprimorar os conhecimentos de programação desenvolvendo um site responsivo e hospedado com front-end e back-end para doação e adoção de cachorros e gatos.</p>
+				<p>⚡ Projeto para aprimorar os conhecimentos de programação desenvolvendo um site responsivo e hospedado com front-end e back-end para doação e adoção de cachorros e gatos.</p>
 				<a href="https://github.com/RamonCintas">
  			 		<img src="https://img.shields.io/badge/ver%20projeto-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto">
 				</a>
@@ -43,7 +43,7 @@
 		      	</td>
 			<td valign="top">
 				<h3>DIO (Digital Innovation One)</h3>
-				<p>Projeto para aprimorar os conhecimentos de programação construindo uma API (Interface de Programação de Aplicação) com front-end e back-end para doações online.</p>
+				<p>⚡ Projeto para aprimorar os conhecimentos de programação construindo uma API (Interface de Programação de Aplicação) com front-end e back-end para doações online.</p>
 				<a href="https://github.com/RamonCintas">
  			 		<img src="https://img.shields.io/badge/ver%20projetos-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projetos">
 				</a>
@@ -62,7 +62,7 @@
 		      	</td>
 			<td valign="top">
 				<h3>Beecrowd / URI Online Judge</h3>
-				<p>Projetos para aprimorar os conhecimentos de programação com o foco em grandes volumes de dados.</p>
+				<p>⚡ Projetos para aprimorar os conhecimentos de programação com o foco em grandes volumes de dados.</p>
 				<a href="https://github.com/RamonCintas">
  			 		<img src="https://img.shields.io/badge/ver%20projeto-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projeto">
 				</a>
