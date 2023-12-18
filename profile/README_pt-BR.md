@@ -5,7 +5,7 @@
   
 </div>
 
-<h1 align="center">Aqui estão todos os projetos de código aberto que não estão entre os projetos de código privado no repositório RamonCintas</h1>
+<h1 align="center">⚡ Aqui estão todos os projetos de código aberto que não estão entre os projetos de código privado no repositório RamonCintas</h1>
 
 ---
 
@@ -24,7 +24,7 @@
 		      	</td>
 			<td valign="top">
 				<h3>Fatec (Faculdade de Tecnologia do Estado de São Paulo)</h3>
-				<p>Projetos desenvolvidos na graduação do curso tecnólogo de ADS (Análise e desenvolvimento de sistemas) na instituição de ensino superior Fatec.</p>
+				<p>⚡ Projetos desenvolvidos na graduação do curso tecnólogo de ADS (Análise e desenvolvimento de sistemas) na instituição de ensino superior Fatec.</p>
 				<a href="https://github.com/RamonCintas">
  			 		<img src="https://img.shields.io/badge/ver%20projetos-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projetos">
 				</a>
@@ -43,7 +43,7 @@
 		      	</td>
 			<td valign="top">
 				<h3>DIO (Digital Innovation One)</h3>
-				<p>Projetos desenvolvidos na plataforma de ensino de tecnologias da Digital Innovation One.</p>
+				<p>⚡ Projetos desenvolvidos na plataforma de ensino de tecnologias da Digital Innovation One.</p>
 				<a href="https://github.com/RamonCintas">
  			 		<img src="https://img.shields.io/badge/ver%20projetos-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projetos">
 				</a>
@@ -62,7 +62,7 @@
 		      	</td>
 			<td valign="top">
 				<h3>Beecrowd / URI Online Judge</h3>
-				<p>Projetos desenvolvidos na plataforma de desafios de código Beecrowd.</p>
+				<p>⚡ Projetos desenvolvidos na plataforma de desafios de código Beecrowd.</p>
 				<a href="https://github.com/RamonCintas">
  			 		<img src="https://img.shields.io/badge/ver%20projetos-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projetos">
 				</a>
