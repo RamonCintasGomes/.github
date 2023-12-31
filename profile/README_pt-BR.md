@@ -26,7 +26,7 @@
 				<h3>Fatec (Faculdade de Tecnologia do Estado de São Paulo)</h3>
 				<p>⚡ Projetos desenvolvidos na graduação do curso tecnólogo de ADS (Análise e desenvolvimento de sistemas) na instituição de ensino superior Fatec.</p>
 				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projetos-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projetos"></a>
-				<a href="https://www.vestibularfatec.com.br/home/" target="_blank"><img src="https://img.shields.io/badge/Ir%20para%20o%20site%20vestibular%20fatec-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ir para o site vestibular fatec"></a>
+				<a href="https://www.vestibularfatec.com.br/home/" target="_blank"><img src="https://img.shields.io/badge/Ir%20para%20o%20site%20da%20fatec-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ir para o site da fatec"></a>
 			</td>
 		</tr>
   		<tr>
@@ -37,7 +37,7 @@
 				<h3>DIO (Digital Innovation One)</h3>
 				<p>⚡ Projetos desenvolvidos na plataforma de ensino de tecnologias da Digital Innovation One.</p>
 				<a href="https://github.com/RamonCintas"><img src="https://img.shields.io/badge/ver%20projetos-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ver projetos"></a>
-				<a href="https://www.dio.me/" target="_blank"><img src="https://img.shields.io/badge/Ir%20para%20o%20site%20Digital%20Innovation%20One-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ir para o site Digital Innovation One"></a>
+				<a href="https://www.dio.me/" target="_blank"><img src="https://img.shields.io/badge/Ir%20para%20o%20site%20da%20DIO-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ir para o site da DIO"></a>
 			</td>
 		</tr>
 		<tr>
