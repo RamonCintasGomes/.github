@@ -5,7 +5,7 @@
   
 </div>
 
-<h1 align="center">⚡ Aqui estão todos os projetos de código aberto que não estão entre os projetos de código privado no repositório RamonCintas</h1>
+<h1 align="center">⚡  Aqui estão todos os repositórios que foram usados como base para alguns projetos que foram desenvolvidos no meu repositório de portfólio digital RamonCintas</h1>
 
 ---
 
