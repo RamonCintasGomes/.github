@@ -17,7 +17,7 @@
 	<tbody>
 		<tr>
 			<td align="center" valign="center" width="200" height="200"><br />
-				<a href="https://github.com/RamonCintas" target="_blank"><img src="https://github.com/RamonCintasGomes/.github/blob/main/profile/assets/portfolio.jpg"/></a>
+				<a href="https://github.com/RamonCintas/RamonCintas/blob/main/README_pt-BR.md" target="_blank"><img src="https://github.com/RamonCintasGomes/.github/blob/main/profile/assets/portfolio.jpg"/></a>
 		      	</td>
 			<td valign="top">
 				<h3>Portfólio digital: Ramon Cintas</h3>
