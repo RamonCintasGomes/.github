@@ -22,7 +22,7 @@
 			<td valign="top">
 				<h3>Portfólio digital: Ramon Cintas</h3>
 				<p>⚡ Bem-vindo(a) ao meu portfólio digital</p>
-				<a href="https://github.com/RamonCintas" target="_blank"><img src="https://img.shields.io/badge/Ir%20para%20o%20portfólio%20digital-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ir para o portfólio digital"></a>
+				<a href="https://github.com/RamonCintas/RamonCintas/blob/main/README_pt-BR.md" target="_blank"><img src="https://img.shields.io/badge/Ir%20para%20o%20portfólio%20digital-E7ECEB?style=for-the-badge&logo=phoenixframework&logoColor=%23FD4F00" alt="Ir para o portfólio digital"></a>
 			</td>
 		</tr>
 	</tbody>
